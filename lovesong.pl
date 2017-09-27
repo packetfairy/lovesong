@@ -16,7 +16,7 @@ sub make_verse {
 };
 
 sub always {
-    print 'I will always love you';
+    print "I will always love you\n";
 };
 
 sub chorus {
